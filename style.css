@@ -6,76 +6,87 @@
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    background-color: #040310;
-    overflow-x:hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #040310;
+  overflow-x: hidden;
 }
 
+/* Header styles */
+
 .header {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    background-color: #040310;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #040310;
 }
 
 .logo {
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 20px;
 }
+
 .logo img {
-  width: 60px; /* Adjust the width to your desired size */
-  height: auto; /* Maintain the aspect ratio */
+  width: 60px;
+  height: auto;
   margin-left: 20px;
 }
 
 .nav {
-    list-style: none;
-    display: flex;
-    gap: 20px;
+  list-style: none;
+  display: flex;
+  gap: 20px;
 }
 
 .nav li {
-    font-size: 16px;
+  font-size: 16px;
 }
+
 .nav a {
-    text-decoration: none; /* Remove underline for navigation links */
-    color: #333; /* Set the link color */
+  text-decoration: none;
+  color: #333;
 }
+
+/* Main content styles */
 
 .main-content {
-    text-align: center;
+  text-align: center;
 }
 
+/* Sections with background images */
+
 .section-with-background {
-    background-image: url(asdfef.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: #fff;
-    padding: 100px;
+  background-image: url(asdfef.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  padding: 100px;
 }
 
 .section-with-background h1 {
-    font-size: 72px;
-    margin-bottom: 20px;
+  font-size: 72px;
+  margin-bottom: 20px;
 }
 
 .section-with-background p {
-    font-size: 18px;
-    margin-bottom: 30px;
+  font-size: 18px;
+  margin-bottom: 30px;
 }
 
+/* Call to action button */
+
 .cta-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #0e68a0;
-    color: #fff;
-    border: none;
-    border-radius: 50px;
-    text-decoration: none;
-    font-size: 18px;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0e68a0;
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 18px;
 }
+
 .about-section {
     background-image: url(srlt0l0f.remini-enhanced.jpg);
     background-size: cover; /* This will make the background image cover the entire section */
