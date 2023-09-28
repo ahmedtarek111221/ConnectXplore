@@ -16,6 +16,7 @@ body {
 
 .headinterface{
   background:linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0.76) 10.22%, rgba(0, 0, 0, 0.42) 19.06%, rgba(0, 0, 0, 0.23) 27.25%), linear-gradient(305deg, #A88FC7 27.45%, #203678 69.72%);
+  height:620px
 }
 
 /* Header styles */
