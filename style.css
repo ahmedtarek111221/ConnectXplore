@@ -19,7 +19,6 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 20px;
-  background-color: #040310;
 }
 
 .logo {
@@ -46,7 +45,7 @@ body {
 
 .nav a {
   text-decoration: none;
-  color: #333;
+  color: #f0f0f0;
 }
 
 /* Main content styles */
@@ -56,7 +55,6 @@ body {
 
 /* Sections with background images */
 .section-with-background {
-  background-image: url(asdfef.png);
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
