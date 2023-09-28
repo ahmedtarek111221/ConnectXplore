@@ -734,6 +734,11 @@ font-size:16px
     color: #8A8A8B;
 }
 
+.footermenu{
+    color:#8a8a8b;
+    text-decoration:none;
+  }
+  
 .footer-section {
   background: #040310;
   position: relative;
