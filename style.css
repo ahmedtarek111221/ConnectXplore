@@ -56,6 +56,12 @@ body {
   color: #f0f0f0;
 }
 
+.nav-contact{
+  border-width: 1px;
+  border-style: solid;
+  padding: 9px 22px;
+}
+
 /* Main content styles */
 .main-content {
   text-align: center;
