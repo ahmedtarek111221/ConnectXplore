@@ -83,13 +83,14 @@ body {
 /* Call to action button */
 .cta-button {
   display: inline-block;
-  padding: 10px 20px;
-  background-color: #0e68a0;
+  padding: 15px 30px;
+  background-color: #0E0F12;
   color: #fff;
   border: none;
   border-radius: 50px;
   text-decoration: none;
   font-size: 18px;
+  margin-top: 15px;
 }
 
 /* Responsive Design */
