@@ -4,6 +4,9 @@
 /*   box-sizing: border-box; */
   font-family: sans-serif;
 }
+@media only screen and (max-width: 600px) {
+  /* Styles for screens smaller than 600px (e.g., mobile phones) */
+}
 
 /* Base styles for the body */
 body {
